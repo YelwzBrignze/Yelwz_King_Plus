@@ -1,0 +1,77 @@
+[
+  {
+		"name": "Caballero Family",
+    		"uniqueTo": "Colziand",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Castle",
+		"cost": 250,
+		"requiredTech": "Chivalry",
+		"uniques": ["Destroyed when the city is captured","[+25]% Production when constructing [Military] units [in all cities]",
+               "[-25]% maintenance costs <for [All] units>","Limited to [1] per Civilization"]
+	},
+	{
+		"name": "Kingdom Hall",
+    "uniqueTo": "Colziand",
+		"happiness": 1,
+		"production": 3,
+		"science": 1,
+		"gold": 1,
+		"culture": 1,
+		"faith": 2,
+		"cityStrength": 2,
+		"cost": 100,
+		"requiredTech": "Iron Working"
+		"uniques": ["[1] free [Companion Cavalry] units appear","[1] free [Legion] units appear","[1] free [Ballista] units appear"],
+		"quote": "'Here starts the rule in which it will lead us to the bright future.' - Colziand King" 
+	},
+{
+		"name": "Empire Atrium",
+		"uniqueTo": "Colziand",
+		"happiness": 2,
+		"production": 6,
+		"science": 2,
+		"gold": 2,
+		"culture": 2,
+		"faith": 4,
+		"cityStrength": 4,
+		"cost": 500,
+		"requiredTech": "Metal Casting"
+		"uniques": ["Only available <if [Kingdom Hall] is constructed>",
+			   "[1] free [Conquistador] units appear","[1] free [Keshik] units appear","[1] free [Chu-Ko-Nu] units appear",
+			   "[1] free [Longbowman] units appear","[1] free [Samurai] units appear"],
+		"quote": "'Our expanse is going further beyond the horizon skies of fate.' - Colziand King" 
+	},
+	{
+		"name": "Domain Amplitude",
+		"uniqueTo": "Colziand",
+		"happiness": 3,
+		"production": 9,
+		"science": 3,
+		"gold": 3,
+		"culture": 3,
+		"faith": 6,
+		"cityStrength": 6,
+		"cost": 1000,
+		"greatPersonPoints": {"Great Scientist": 3, "Great General": 3, "Great Engineer": 3, "Great Artist": 3, "Great Merchant": 3, "Great Prophet": 3},
+		"requiredTech": "Steel"
+		"uniques": ["Only available <if [Empire Atrium] is constructed>","[1] free [Janissary] units appear",
+			   "[1] free [Sea Beggar] units appear","[1] free [Ship of the Line] units appear","[1] free [Sipahi] units appear",
+			   "[1] free [Hakkapeliitta] units appear","[1] free [Turtle Ship] units appear"],
+		"quote": "'Long it has started and now it still continues, our Lord leads us.' - Colziand King"
+	},
+	{
+		"name": "Stronghold",
+    "uniqueTo": "Colziand",
+		"cost": 100,
+    "replaces": "Barracks",
+		"hurryCostModifier": 35,
+		"gold": 1,
+		"science": 1,
+		"maintenance": 3,
+		"uniques": ["New [Military] units start with [125] Experience [in this city]","Destroyed when the city is captured",
+			    "All newly-trained [relevant] units [in this city] receive the [Beseige] promotion"],
+		"requiredTech": "Bronze Working"
+	}
+]
