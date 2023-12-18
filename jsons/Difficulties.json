@@ -1,0 +1,32 @@
+[
+  {
+        "name": "Conquestador",
+        "baseHappiness": 5,
+        "extraHappinessPerLuxury": 0,
+        "researchCostModifier": 1,
+        "unitCostModifier": 1,
+        "unitSupplyBase": 10,
+        "unitSupplyPerCity": 3,
+        "buildingCostModifier": 1,
+        "policyCostModifier": 1,
+        "unhappinessModifier": 1,
+        "barbarianBonus": 0.1,
+    "playersFreeTechs": ["Pottery","Animal Husbandry","Mining","The Wheel"],
+    "playersExchangeTechs": true,
+        "playerBonusStartingUnits": ["Worker","Scout","Era Starting Unit","Era Starting Unit","Era Starting Unit","Era Starting Unit","Era Starting Unit","Era Starting Unit","Era Starting Unit","Era Starting Unit"],
+        "aiCityGrowthModifier": 0.6,
+        "aiUnitCostModifier": 0.5,
+        "aiBuildingCostModifier": 0.5,
+        "aiWonderCostModifier": 1,
+        "aiBuildingMaintenanceModifier": 0.5,
+        "aiUnitMaintenanceModifier": 0.5,
+        "aiUnitSupplyModifier": 0.5,
+        "aiFreeTechs": ["Pottery","Animal Husbandry","Mining","The Wheel"],
+        "aiMajorCivBonusStartingUnits": ["Worker","Scout","Worker","Scout","Settler","Settler","Era Starting Unit","Era Starting Unit","Era Starting Unit","Era Starting Unit"],
+        "aiCityStateBonusStartingUnits": ["Worker","Scout","Worker","Scout","Era Starting Unit","Era Starting Unit","Era Starting Unit","Era Starting Unit","Era Starting Unit","Era Starting Unit"],
+        "aiUnhappinessModifier": 0.6,
+        "aisExchangeTechs": false,
+        "turnBarbariansCanEnterPlayerTiles": 0,
+        "clearBarbarianCampReward": 250
+    }
+]
