@@ -76,4 +76,5 @@ New and actual one for plus add on mod
         ]
     }
 ]
-
+"May buy [Stupaa] buildings for [280] [Faith] [in cities following this religion]","May buy [Meeting de House] buildings for [350] [Faith] [in cities following this religion]",
+		"May buy [Dar-e Mehr?] buildings for [320] [Faith] [in cities following this religion]","May buy [Monasterio] buildings for [180] [Faith] [in cities following this religion]"
